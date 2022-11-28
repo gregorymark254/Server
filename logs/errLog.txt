@@ -1,0 +1,8 @@
+20221122	11:22:17	f8b83390-0d98-4b44-92cb-0808a0cdb40f	Error: Not allowed by CORS : https://cloud.mongodb.com
+20221122	12:25:55	ae9c9a99-fbbb-4a63-97eb-67230041dd25	Error: No default engine was specified and no extension was provided. : undefined
+20221122	12:39:19	4b69a83f-0d83-4de6-a0f7-c325cfed8d02	Error: No default engine was specified and no extension was provided. : undefined
+20221122	14:59:43	a55e057e-a341-4e44-861a-dec8726efd4f	TypeError: Db.getOrder is not a function : undefined
+20221122	15:07:02	3e677224-9fbb-438a-a6bd-8e9d94187af2	TypeError: Db.getOrder is not a function : undefined
+20221122	22:30:02	0586eed6-057c-47e7-a7fd-8f75a0b76dd5	TypeError: Db.getOrders is not a function : undefined
+20221122	22:31:46	636a27a0-e06e-48d4-bdd6-e44178483735	TypeError: Class constructor dbOperation cannot be invoked without 'new' : undefined
+20221123	10:43:34	eb50cb19-23e1-4f5c-bd23-63e84df1e7f2	ReferenceError: dbConfig is not defined : undefined
